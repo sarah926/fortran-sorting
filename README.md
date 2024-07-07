@@ -1,5 +1,5 @@
 # fortran-sorting
-Implemented various sorting techniques in old Fortran.
+Implemented various sorting techniques in old Fortran. Developed for the class Legacy Systems, CIS3190.
 We utilized a recursive and an iterative version of quicksort to time which executed faster. In this case, my results found the recursive was slightly faster than the iterative function, although they were both under .1 seconds.
 
 # "iqsort.f03" file:
